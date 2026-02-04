@@ -36,6 +36,6 @@ A digital garden and technical blog built with Jekyll, where I document investig
 
 ### 📫 Let's Connect
 - **ORCID:** [0000-0002-4359-2742](https://orcid.org/0000-0002-4359-2742)
-- **LinkedIn:** [https://www.linkedin.com/in/isa%C3%ADas-rodriguez-567680134/](https://www.linkedin.com/in/isa%C3%ADas-rodriguez-567680134/)
+- **LinkedIn:** [Isaías Rodríguez](https://www.linkedin.com/in/isa%C3%ADas-rodriguez-567680134/)
 
 *"The best way to predict the future is to simulate it."*
