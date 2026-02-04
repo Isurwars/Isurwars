@@ -1,4 +1,4 @@
-# Hi there, I'm Isaías (Isurwars) 👋
+# Hi there, I'm Isaías Rodríguez (Isurwars) 👋
 
 ### 🔬 Postdoctoral Fellow | Computational Materials Scientist | C++ Developer
 I bridge the gap between theoretical physics and high-performance software. Currently, I am a **Postdoctoral Fellow at the Instituto de Investigaciones en Materiales (IIM-UNAM)**, focusing on the simulation of advanced materials and the development of specialized research tools.
